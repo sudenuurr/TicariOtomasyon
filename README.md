@@ -1,4 +1,4 @@
-**Ticari Otomasyon**
+**Ticari Otomasyon**  
 C# dili kullanılarak Visual Studio üzerinde geliştirilen bir E-Ticaret otomasyon sistemi oluşturmaktır. 
 Otomasyon için DevExpress araçları kullanılarak formlarımız oluşturulmuştur. Sql tabanlı olan projemizde MSSQL veri tabanı kullanılarak veriler burada bulunan tablolar üzerinden çekilmiştir. 
 Oluşturulan projede ana sayfa, ürünler, stoklar, müşteriler, firmalar, personeller, giderler, kasa, notlar, bankalar, rehber, faturalar, hareketler ve ayarlar sayfalarından oluşturulacaktır.
